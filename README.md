@@ -1,6 +1,3 @@
-Here is the clean, Markdown-formatted content for your `README.md` file. You can simply copy the code block below and paste it directly into your file.
-
-``` markdown
 # CivicResolve | Interactive Hyperlocal Community Action Engine
 
 **Lead Developer:** Rohit Korpal
@@ -49,4 +46,4 @@ CivicResolve leverages state-of-the-art Google Cloud and AI infrastructure to dr
 
 Upon the successful resolution of an issue, the platform generates an **Eco-Community Impact Certificate**. These documents include secure validation tokens and structural signatures, providing residents with verifiable proof of their contributions to local community recovery.
 
-```
+
