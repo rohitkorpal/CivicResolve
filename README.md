@@ -1,3 +1,6 @@
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/3affdda3-5e53-43bb-8fb8-a98f962f074f" />
+
+
 # CivicResolve | Interactive Hyperlocal Community Action Engine
 
 **Lead Developer:** Rohit Korpal
