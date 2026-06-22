@@ -42,8 +42,15 @@ CivicResolve leverages state-of-the-art Google Cloud and AI infrastructure to dr
 *   **@google/genai SDK:** Integrated into server-side routes to ensure secure, shielded access to private platform keys.
 *   **Google Cloud Ingress:** Deployed via Cloud Run containers for low-latency request routing and scalable performance.
 
-## 4. Verification & Impact
+## 4. Usage
+Follow these steps to engage with the CivicResolve platform:
 
+1.  **Issue Reporting:** Navigate to the interactive map dashboard, pinpoint the specific location of the infrastructure hazard, and submit a natural language description.
+2.  **Receive Action Plan:** The platform will analyze your report and generate a **Civic Action Blueprint** powered by Gemini AI. Review the 4-step physical mitigation checklist tailored specifically to the incident.
+3.  **Pledge & Act:** Select the **"Pledge"** button on the mitigation steps you intend to perform. Log your progress as you complete these micro-restoration tasks to earn reputation points.
+4.  **Verify & Export:** Once the issue is mitigated, submit a verification entry. Visit the dashboard to export your official **Eco-Community Impact Certificate**, which features secure validation tokens.
+
+## 5. Verification & Impact
 Upon the successful resolution of an issue, the platform generates an **Eco-Community Impact Certificate**. These documents include secure validation tokens and structural signatures, providing residents with verifiable proof of their contributions to local community recovery.
 
 
