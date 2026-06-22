@@ -1,0 +1,6 @@
+{
+  "name": "CivicResolve",
+  "description": "An AI-powered hyperlocal problem solver that enables citizens to report, track, verify, and resolve community issues collaboratively.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
